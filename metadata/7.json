@@ -1,0 +1,25 @@
+{
+  "name": "Цифровой Ветер #7",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "attributes": [
+    {
+      "trait_type": "Космос",
+      "value": "Значение 80"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Древняя"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Мощный"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 69
+    }
+  ],
+  "external_url": "https://github.com/DimaProsckuirin/lr4block",
+  "background_color": "0fc5e2"
+}
