@@ -1,37 +1,37 @@
 {
-  "name": "Вечный Момент #5",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "name": "Виртуальный Сад #5",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
   "attributes": [
     {
       "trait_type": "Энергия",
-      "value": "Значение 62"
+      "value": "Значение 27"
     },
     {
-      "trait_type": "Эра",
-      "value": "Древняя"
+      "trait_type": "Природа",
+      "value": "Значение 57"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Всесильный"
+      "trait_type": "Космос",
+      "value": "Значение 76"
     },
     {
-      "trait_type": "Технология",
-      "value": "Трансцендентная"
+      "trait_type": "Время",
+      "value": "Значение 26"
     },
     {
       "trait_type": "Редкость",
       "value": "Редкий"
     },
     {
-      "trait_type": "Время",
-      "value": "Значение 28"
+      "trait_type": "Мощность",
+      "value": "Сильный"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 82
+      "value": 59
     }
   ],
   "external_url": "https://github.com/DimaProsckuirin/lr4block",
-  "background_color": "82f362"
+  "background_color": "da26e8"
 }
