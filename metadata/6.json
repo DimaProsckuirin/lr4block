@@ -1,25 +1,29 @@
 {
-  "name": "Электронная Эмоция #6",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "name": "Будущее Настоящее #6",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Космос",
-      "value": "Значение 77"
-    },
-    {
-      "trait_type": "Эра",
-      "value": "Футуристическая"
+      "trait_type": "Энергия",
+      "value": "Значение 1"
     },
     {
       "trait_type": "Мощность",
-      "value": "Всесильный"
+      "value": "Сильный"
+    },
+    {
+      "trait_type": "Стихия",
+      "value": "Эфир"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Футуристическая"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 88
+      "value": 6
     }
   ],
   "external_url": "https://github.com/DimaProsckuirin/lr4block",
-  "background_color": "1942b6"
+  "background_color": "bd8d5a"
 }
