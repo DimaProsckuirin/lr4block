@@ -1,25 +1,37 @@
 {
-  "name": "Цифровой Ветер #7",
+  "name": "Звездная Пыль #7",
   "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Космос",
-      "value": "Значение 80"
+      "trait_type": "Энергия",
+      "value": "Значение 82"
     },
     {
-      "trait_type": "Эра",
-      "value": "Древняя"
+      "trait_type": "Технология",
+      "value": "Примитивная"
+    },
+    {
+      "trait_type": "Природа",
+      "value": "Значение 41"
     },
     {
       "trait_type": "Мощность",
-      "value": "Мощный"
+      "value": "Сильный"
+    },
+    {
+      "trait_type": "Стихия",
+      "value": "Воздух"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 16"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 69
+      "value": 51
     }
   ],
   "external_url": "https://github.com/DimaProsckuirin/lr4block",
-  "background_color": "0fc5e2"
+  "background_color": "49ce1a"
 }
