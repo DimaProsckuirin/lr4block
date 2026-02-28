@@ -1,37 +1,25 @@
 {
-  "name": "Звездная Пыль #7",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
+  "name": "Небесный Код #7",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Энергия",
-      "value": "Значение 82"
-    },
-    {
-      "trait_type": "Технология",
-      "value": "Примитивная"
-    },
-    {
       "trait_type": "Природа",
-      "value": "Значение 41"
+      "value": "Значение 40"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Сильный"
+      "trait_type": "Магия",
+      "value": "Без магии"
     },
     {
       "trait_type": "Стихия",
-      "value": "Воздух"
-    },
-    {
-      "trait_type": "Время",
-      "value": "Значение 16"
+      "value": "Огонь"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 51
+      "value": 99
     }
   ],
   "external_url": "https://github.com/DimaProsckuirin/lr4block",
-  "background_color": "49ce1a"
+  "background_color": "382697"
 }
