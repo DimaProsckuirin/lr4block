@@ -1,29 +1,37 @@
 {
   "name": "Будущее Настоящее #6",
-  "description": "Цифровой актив с уникальными характеристиками и свойствами",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
   "attributes": [
     {
-      "trait_type": "Энергия",
-      "value": "Значение 1"
+      "trait_type": "Природа",
+      "value": "Значение 11"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Сильный"
+      "trait_type": "Эра",
+      "value": "Средневековая"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 49"
     },
     {
       "trait_type": "Стихия",
-      "value": "Эфир"
+      "value": "Вода"
     },
     {
-      "trait_type": "Технология",
-      "value": "Футуристическая"
+      "trait_type": "Магия",
+      "value": "Средняя"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 74"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 6
+      "value": 71
     }
   ],
   "external_url": "https://github.com/DimaProsckuirin/lr4block",
-  "background_color": "bd8d5a"
+  "background_color": "276535"
 }
