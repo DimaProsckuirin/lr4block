@@ -1,37 +1,37 @@
 {
-  "name": "Виртуальный Сад #5",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
+  "name": "Звездная Пыль #5",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Энергия",
-      "value": "Значение 27"
+      "trait_type": "Технология",
+      "value": "Примитивная"
     },
     {
-      "trait_type": "Природа",
-      "value": "Значение 57"
-    },
-    {
-      "trait_type": "Космос",
-      "value": "Значение 76"
-    },
-    {
-      "trait_type": "Время",
-      "value": "Значение 26"
+      "trait_type": "Магия",
+      "value": "Абсолютная"
     },
     {
       "trait_type": "Редкость",
-      "value": "Редкий"
+      "value": "Легендарный"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Сильный"
+      "trait_type": "Природа",
+      "value": "Значение 51"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Вневременная"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 8"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 59
+      "value": 74
     }
   ],
   "external_url": "https://github.com/DimaProsckuirin/lr4block",
-  "background_color": "da26e8"
+  "background_color": "4a8341"
 }
