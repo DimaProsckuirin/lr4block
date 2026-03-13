@@ -1,37 +1,37 @@
 {
-  "name": "Звездная Пыль #5",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
+  "name": "Цифровая Мечта #5",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
   "attributes": [
     {
-      "trait_type": "Технология",
-      "value": "Примитивная"
-    },
-    {
-      "trait_type": "Магия",
-      "value": "Абсолютная"
-    },
-    {
-      "trait_type": "Редкость",
-      "value": "Легендарный"
-    },
-    {
-      "trait_type": "Природа",
-      "value": "Значение 51"
-    },
-    {
-      "trait_type": "Эра",
-      "value": "Вневременная"
+      "trait_type": "Космос",
+      "value": "Значение 11"
     },
     {
       "trait_type": "Энергия",
-      "value": "Значение 8"
+      "value": "Значение 39"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 50"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Древняя"
+    },
+    {
+      "trait_type": "Природа",
+      "value": "Значение 41"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Всесильный"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 74
+      "value": 56
     }
   ],
   "external_url": "https://github.com/DimaProsckuirin/lr4block",
-  "background_color": "4a8341"
+  "background_color": "2a986d"
 }
