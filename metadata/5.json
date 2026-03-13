@@ -1,37 +1,29 @@
 {
-  "name": "Цифровая Мечта #5",
+  "name": "Небесный Код #5",
   "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
       "trait_type": "Космос",
-      "value": "Значение 11"
+      "value": "Значение 69"
     },
     {
-      "trait_type": "Энергия",
-      "value": "Значение 39"
+      "trait_type": "Редкость",
+      "value": "Легендарный"
     },
     {
       "trait_type": "Время",
-      "value": "Значение 50"
+      "value": "Значение 18"
     },
     {
-      "trait_type": "Эра",
-      "value": "Древняя"
-    },
-    {
-      "trait_type": "Природа",
-      "value": "Значение 41"
-    },
-    {
-      "trait_type": "Мощность",
-      "value": "Всесильный"
+      "trait_type": "Магия",
+      "value": "Низкая"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 56
+      "value": 90
     }
   ],
   "external_url": "https://github.com/DimaProsckuirin/lr4block",
-  "background_color": "2a986d"
+  "background_color": "4ce0ff"
 }
